@@ -8,5 +8,6 @@ public class Array {
         names[2] = "Pawya";
 
         System.out.println(names[2]);
+        System.out.println(names[1]);
     }
 }
